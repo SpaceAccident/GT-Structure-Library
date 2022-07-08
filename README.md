@@ -1,5 +1,7 @@
 # StructureLib
 
+[![](https://jitpack.io/v/SpaceAccident/GT-Structure-Library.svg)](https://jitpack.io/#SpaceAccident/GT-Structure-Library)
+
 1. Add this to your build.gradle
     ```groovy
     dependencies {
